@@ -2,12 +2,11 @@ package model;
 
 public class User {
 	private String nickname;
-
-	public String getNickname() {
-		return nickname;
-	}
-
-	public void setNickname(String nickname) {
+	private boolean isOwner;
+	
+	public User(String nickname, boolean isOwner) {
 		this.nickname = nickname;
+		this.isOwner = isOwner;
 	}
+	
 }
