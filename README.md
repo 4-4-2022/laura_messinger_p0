@@ -12,16 +12,16 @@
 
 🧠 **required technologies learned** 🧠
 - [x] java 8
-- [ ] maven
+- [x] maven
 - [ ] junit
 - [ ] mockito
-- [ ] log4j / logback
+- [x] log4j / logback
 - [ ] postgresql
 - [ ] jdbc
 
 🛠️ **format requirements followed** 🛠️
 - [ ] build application in java 8
-- [ ] manage project with maven
+- [x] manage project with maven
 - [ ] get user input with scanner
 - [ ] persist data with postgresql
 - [ ] host data on aws relational database
