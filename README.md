@@ -13,18 +13,18 @@
 🧠 **required technologies learned** 🧠
 - [x] java 8
 - [x] maven
-- [ ] junit
-- [ ] mockito
+- [x] junit
+- [x] mockito
 - [x] log4j / logback
-- [ ] postgresql
-- [ ] jdbc
+- [x] postgresql
+- [x] jdbc
 
 🛠️ **format requirements followed** 🛠️
 - [ ] build application in java 8
 - [x] manage project with maven
 - [ ] get user input with scanner
 - [ ] persist data with postgresql
-- [ ] host data on aws relational database
+- [x] host data on aws relational database
 - [ ] use jdbc data access objects to connect data
 - [ ] write at least 30 junit tests for quality
 - [ ] log all transactions with log4j or logback
