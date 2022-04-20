@@ -20,19 +20,19 @@
 - [x] jdbc
 
 🛠️ **format requirements followed** 🛠️
-- [ ] build application in java 8
+- [x] build application in java 8
 - [x] manage project with maven
-- [ ] get user input with scanner
-- [ ] persist data with postgresql
+- [x] get user input with scanner
+- [x] persist data with postgresql
 - [x] host data on aws relational database
 - [ ] use jdbc data access objects to connect data
 - [ ] write at least 30 junit tests for quality
 - [ ] log all transactions with log4j or logback
 
 🤸 **required functionality implemented** 🤸
-- [ ] customers can register with a username and password
-- [ ] customers can have multiple accounts with different credentials
-- [ ] customers can add secondary users to their account (with limited access)
+- [x] customers can register with a username and password
+- [x] customers can have multiple accounts with different credentials
+- [x] customers can add secondary users to their account (with limited access)
 - [ ] customers can add and remove account funds, and transfer funds between accounts
 - [ ] transactions are validated (no overdrawing, inputting negative amounts, etc)
 - [ ] employees can view all customer information (users, balance, personal info)
